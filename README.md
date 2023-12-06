@@ -1,5 +1,7 @@
 # BetterMartt
 
+![GitHub repo size](https://img.shields.io/github/repo-size/AzizBenIsmail/Appl.Web-Distribues-EcoExchange_FrontEndAngular)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.8.
 
 ## Development server
